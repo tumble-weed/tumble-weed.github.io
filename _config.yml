@@ -23,8 +23,8 @@ url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://
 #github_username:  jekyll
 
 # Build settings
+# katex from https://gendignoux.com/blog/2020/05/23/katex.html
 markdown: kramdown
-  math_engine: katex
 theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
