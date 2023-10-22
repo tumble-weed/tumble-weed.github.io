@@ -24,6 +24,7 @@ url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://
 
 # Build settings
 markdown: kramdown
+  math_engine: katex
 theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
